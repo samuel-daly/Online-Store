@@ -3,11 +3,11 @@ Darren Pierre 101015833
 
 
 Version: tested on MacOS and Windows
-	 Node.js version --> 9.7.1
+	 Node.js version --> 9.10.1
 
 Install: npm install (This will install the modules necessary to run the code)
 
-Launch: node start
+Launch: npm start
 
 Testing: To test, you can visit these following link:http://localhost:3000
 
